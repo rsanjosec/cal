@@ -1,12 +1,6 @@
 Primera versión del fichero README.md
 
-├── Logtrust
-│   ├── certs
-│   │   ├── cert.crt
-│   │   ├── cert.key
-│   │   └── chain.crt
-│   └── config.cfg
-└── Notifications
+── Notifications
     ├── CONST_TEMPLATES.py
     ├── CONST_TEMPLATES.pyc
     ├── Doc
